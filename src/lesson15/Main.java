@@ -1,9 +1,12 @@
 package lesson15;
 
+import org.apache.log4j.Logger;
+
 import java.util.HashSet;
 import java.util.Iterator;
 
 public class Main {
+    private static final Logger logger = Logger.getLogger(Main.class);
     public static void main(String[] args) {
         HashSet<String> strings = new HashSet<>();
         strings.add("qwerty");
@@ -17,7 +20,8 @@ public class Main {
 //        }
 
         for(Iterator<String> iter = strings.iterator();iter.hasNext();){
-            System.out.println(iter.next());
+            logger.info(iter.next());
+            //System.out.println(iter.next());
         }
 
 

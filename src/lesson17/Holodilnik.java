@@ -1,9 +1,12 @@
 package lesson17;
 
+import org.apache.log4j.Logger;
+
 import java.util.HashMap;
 import java.util.Set;
 
 public class Holodilnik {
+    private static final Logger logger = Logger.getLogger(Holodilnik.class);
     private HashMap<String, Integer> products = new HashMap<>();
     private int capasity = 50;  //объем холодильника
 
@@ -23,13 +26,15 @@ public class Holodilnik {
 
     public void deleteProduct(String product, int value){
         if(!products.containsKey(product)){
-            System.out.println("Такого продукта в холодильнике нет");
+            //System.out.println("Такого продукта в холодильнике нет");
+            logger.info("Такого продукта в холодильнике нет");
             return; //просто останавливает метод и метод дальше не срабатывает
         }
 
         int currentValue = products.get(product);
         if(value > currentValue){
-            System.out.println("Вы запрашиваете больше, чем есть в холодильнике");
+            //System.out.println("Вы запрашиваете больше, чем есть в холодильнике");
+            logger.info("Вы запрашиваете больше, чем есть в холодильнике");
             return;
         }
 

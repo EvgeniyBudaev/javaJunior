@@ -1,25 +1,31 @@
 package lesson15.domashka;
 
+import org.apache.log4j.Logger;
+
 import java.util.*;
 
 public class Main {
+    private static final Logger logger = Logger.getLogger(Main.class);
     public static void main(String[] args) {
         //Выполнение 1-й задачи
         ListUtilsImpl l = new ListUtilsImpl();
         try{
             l.asList(null);
         }catch (IllegalArgumentException e){
-            System.out.println("String is null");
+            //System.out.println("String is null");
+            logger.info("String is null");
         }
         ListUtilsImpl list = new ListUtilsImpl();
         List<String> result = list.asList("aaaa", "bbbb", "cccc");
-        System.out.println(result);
+        //System.out.println(result);
+        logger.info(result);
 
         //Выполнение 2-й задачи
         try{
             l.sortedList(null);
         }catch (IllegalArgumentException e){
-            System.out.println("Data is null");
+            //System.out.println("Data is null");
+            logger.info("Data is null");
         }
         ArrayList<Double> data = new ArrayList<>();
         data.add(14.0);
@@ -27,14 +33,16 @@ public class Main {
         data.add(2019.0);
 
         List<Double> result2 = list.sortedList(data);
-        System.out.println(result2);
+        //System.out.println(result2);
+        logger.info(result2);
 
         //Выполнение 3-й задачи
         SetUtilsImpl s = new SetUtilsImpl();
         try{
             s.orderedSet(null, null);
         }catch (NullPointerException e){
-            System.out.println("This collection || set2 are null");
+            //System.out.println("This collection || set2 are null");
+            logger.info("This collection || set2 are null");
         }
 
         LinkedHashSet<Integer> collection1 = new LinkedHashSet<>();
@@ -49,11 +57,13 @@ public class Main {
 
         SetUtilsImpl ordered = new SetUtilsImpl();
         SortedSet<String> result3 = ordered.orderedSet(collection1, set2);
-        System.out.println(result3);
+        //System.out.println(result3);
+        logger.info(result3);
 
         //Выполнение 4-й задачи
         Set<Integer> result4 = ordered.customOrderSet(10,20,30,40,50);
-        System.out.println(result4);
+        //System.out.println(result4);
+        logger.info(result4);
 
     }
 }

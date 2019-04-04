@@ -1,9 +1,12 @@
 package lesson15;
 
+import org.apache.log4j.Logger;
+
 import java.util.HashSet;
 import java.util.TreeSet;
 
 public class Main2 {
+    private static final Logger logger = Logger.getLogger(Main2.class);
     public static void main(String[] args) {
         Coin coin1 = new Coin(2.5, 1990, 2);
         Coin coin2 = new Coin(2.5, 1990, 2);
@@ -27,12 +30,14 @@ public class Main2 {
 
 
         for(Coin coin:coins){
-            System.out.println(coin);
+            //System.out.println(coin);
+            logger.info(coin);
         }
         System.out.println();
 
         for(Coin coin:coins2){
-            System.out.println(coin);
+            //System.out.println(coin);
+            logger.info(coin);
         }
     }
 }

@@ -1,9 +1,12 @@
 package lesson15;
 
+import org.apache.log4j.Logger;
+
 import java.util.Iterator;
 import java.util.TreeSet;
 
 public class Main3 {
+    private static final Logger logger = Logger.getLogger(Main3.class);
     public static void main(String[] args) {
         TreeSet<Integer> strings = new TreeSet<>();
         strings.add(8);
@@ -17,7 +20,8 @@ public class Main3 {
 //        }
 
         for(Iterator<Integer> iter = strings.iterator(); iter.hasNext();){
-            System.out.println(iter.next());
+            //System.out.println(iter.next());
+            logger.info(iter.next());
         }
     }
 }
