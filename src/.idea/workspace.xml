@@ -1,24 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23256ec6-5425-4c12-b905-1363e8b1690c" name="Default Changelist" comment="" />
+    <list default="true" id="23256ec6-5425-4c12-b905-1363e8b1690c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsufficientFundsException/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/polimorfizm/Birds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/polimorfizm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/polimorfizm/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/polimorfizm/Vorobei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/polimorfizm/Ytka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/balance/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/balance/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/Monitors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/Pevec1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/Pevec2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/Vedyshii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/homework/Man1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/homework/Man2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/homework/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/homework/MonitorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/homework/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/LargeHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/SmallHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/bankomat/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/bankomat/Terminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/minMax/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/test22/Derevo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/test22/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21/lesson22/test22/Yablonya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson14/Main1.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson1/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
+    <option name="x" value="210" />
+    <option name="y" value="110" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -31,15 +110,26 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560938515080" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaJunior\src\lesson22" />
+      <recent name="D:\javaJunior\src\lesson22\bankomat" />
+      <recent name="D:\javaJunior\src\lesson21" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,16 +155,29 @@
       <updated>1547582536646</updated>
       <workItem from="1547582538175" duration="23000" />
       <workItem from="1549466453238" duration="35000" />
+      <workItem from="1555428034423" duration="168000" />
+      <workItem from="1559319351161" duration="607000" />
+      <workItem from="1560934353272" duration="504000" />
+      <workItem from="1560934883871" duration="285000" />
+      <workItem from="1560935359563" duration="367000" />
+      <workItem from="1560935757139" duration="103000" />
+      <workItem from="1560936101411" duration="7000" />
+      <workItem from="1560936443721" duration="110000" />
+      <workItem from="1560936768335" duration="368000" />
+      <workItem from="1560937344230" duration="481000" />
+      <workItem from="1560938181057" duration="337000" />
+      <workItem from="1560942521982" duration="86000" />
+      <workItem from="1560943060082" duration="93000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58000" />
+    <option name="totallyTimeSpent" value="3574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -82,7 +185,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -94,17 +197,152 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3295302" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson21/Vedyshii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson21/lesson22/bankomat/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson23/main" />
+    <entry file="file://$PROJECT_DIR$/lesson22/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

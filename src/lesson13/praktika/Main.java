@@ -45,9 +45,9 @@ public class Main {
                 break;
             case 3: country.printPloshad();
                 break;
-            case 4:
+            case 4: country.printCountryName();
                 break;
-            case 5:
+            case 5: country.needVisa();
                 break;
             default:
                     System.out.println("Вы ошиблись вводом");
