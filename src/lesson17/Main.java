@@ -21,8 +21,8 @@ public class Main {
 
         Set<String> nameProduct = holodilnik.keySet();
         for(String product: nameProduct){
-            //System.out.println(product);
-            logger.info(holodilnik);
+            System.out.println(product);
+//            logger.info(holodilnik);
         }
     }
 }

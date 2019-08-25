@@ -10,9 +10,9 @@ public class Main2 {
     public static void main(String[] args) {
         Coin coin1 = new Coin(2.5, 1990, 2);
         Coin coin2 = new Coin(2.5, 1990, 2);
-        Coin coin3 = new Coin(3.0, 2000, 5);
+        Coin coin3 = new Coin(5.0, 2018, 50);
         Coin coin4 = new Coin(3.5, 2006, 10);
-        Coin coin5 = new Coin(5.0, 2018, 50);
+        Coin coin5 = new Coin(3.0, 2006, 5);
 
         HashSet<Coin> coins = new HashSet<>();
         coins.add(coin1);
